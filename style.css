@@ -73,6 +73,17 @@ h1 {
     background: #ff1a1a;
 }
 
+p {
+    font-size: 1.6rem;
+    color: #ccc;
+    margin-bottom: 10px;
+}
+
+.texto-riscado {
+    text-decoration: line-through;
+}
+
+
 h1:last-of-type {
     font-size: 2rem;
     color: #ffcc00;
